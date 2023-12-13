@@ -5,13 +5,15 @@ var songlist=[
     "hash": "e47173fb6b076601bdd8ce54d2d36b77",
     "album_id": "34631159"
 },
-/*{
+/*
+{
   type:"netease",
   id:"441491828",
   name:"水星记",
   artist:"郭顶",
   album:"飞行器的执行周期",
 }*/
+
 ];
 var nowsong=0;
 var audio=document.querySelector("#audio");
