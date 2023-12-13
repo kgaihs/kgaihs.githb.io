@@ -5,6 +5,15 @@ var songlist=[
     "hash": "e47173fb6b076601bdd8ce54d2d36b77",
     "album_id": "34631159"
 },
+
+  {
+    "name": "水星记",
+    "artist": "郭顶",
+    "hash": "a72fd1726c82710619cd91789f81071b",
+    "album_id": "1823892"
+},
+
+  
 /*
 {
   type:"netease",
