@@ -36,12 +36,6 @@ var songlist=[
     "hash": "e3887a731f8de5d9fb4b0d2e71567d94",
     "album_id": "80705518"
   },
-  {
-    "name": "晚安",
-    "artist": "颜人中",
-    "hash": "a2251cb58dd6669e26f47f0e65f86b72",
-    "album_id": "19267598"
-},
 {
   "name": "迷人的危险 (男女对唱版)",
   "artist": "张颖轩、范茹",
@@ -169,7 +163,14 @@ var songlist=[
   name:"起风了",
   artist:"买辣椒也用券",
   album:"起风了",
-}
+},
+{
+  type:"netease",
+  id:"1359356908",
+  name:"晚安",
+  artist:"颜人中",
+  album:"晚安",
+},
 /*
 {
   type:"netease",
