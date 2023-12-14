@@ -12,6 +12,83 @@ var songlist=[
     "hash": "a72fd1726c82710619cd91789f81071b",
     "album_id": "1823892"
 },
+  {
+  "name": "罗生门(Follow)",
+  "artist": "Wzi_H张子豪、梨冻紫",
+  "hash": "a3294ef23a6fee092bc7a72269730aae",
+  "album_id": "79616613"
+  },
+  {
+    "name": "像我这样的人 (Live)",
+    "artist": "毛不易",
+    "hash": "4695b8373c1af8e3262c822bfb5a55bd",
+    "album_id": "2952169"
+  },
+  {
+    "name": "落空",
+    "artist": "印子月",
+    "hash": "ff4ff72ad6a35f2309f82e226001eed3",
+    "album_id": "8506712"
+  },
+  {
+    "name": "最后一页",
+    "artist": "江语晨",
+    "hash": "ef053996094a323b42c35195e9781a30",
+    "album_id": "1596655"
+  },
+  {
+    "name": "偏爱 (Live)",
+    "artist": "张芸京",
+    "hash": "e3887a731f8de5d9fb4b0d2e71567d94",
+    "album_id": "80705518"
+  },
+  {
+    "name": "老人与海",
+    "artist": "海鸣威、吴琼",
+    "hash": "be8cf138af41e4037942fc211dc5d648",
+    "album_id": "490417"
+  },
+  {
+    "name": "晚安",
+    "artist": "颜人中",
+    "hash": "a2251cb58dd6669e26f47f0e65f86b72",
+    "album_id": "19267598"
+},
+{
+  "name": "山楂树の恋",
+  "artist": "程佳佳",
+  "hash": "9a1feeede3c6b8c17adb5b65e38b6577",
+  "album_id": "26480544"
+},
+{
+  "name": "大海",
+  "artist": "张雨生",
+  "hash": "74edbb749986cae559d1a8fb238781f3",
+  "album_id": "967705"
+},{
+  "name": "迷人的危险 (男女对唱版)",
+  "artist": "张颖轩、范茹",
+  "hash": "46c196781cd00b0f125b433e9f016370",
+  "album_id": ""
+},
+{
+  "name": "月半小夜曲",
+  "artist": "李克勤",
+  "hash": "c2e648eb53247c712ed64cff10bdd6d8",
+  "album_id": "979727"
+},
+{
+  "name": "江南",
+  "artist": "林俊杰",
+  "hash": "819b74bd09009e0422b8f563e12ba96e",
+  "album_id": "969588"
+},
+{
+  "name": "Something Just Like This",
+  "artist": "Asher",
+  "hash": "a4feccc7ce740e83d44acac1d5520db2",
+  "album_id": "45580698"
+}
 
   
 /*
