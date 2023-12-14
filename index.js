@@ -84,10 +84,34 @@ var songlist=[
   "album_id": "969588"
 },
 {
-  "name": "Something Just Like This",
-  "artist": "Asher",
-  "hash": "a4feccc7ce740e83d44acac1d5520db2",
-  "album_id": "45580698"
+  "name": "红色高跟鞋 (心兮变速版)",
+  "artist": "蔡健雅",
+  "hash": "17405b3059ca9c5eda48c63dda4e3b2d",
+  "album_id": ""
+},
+{
+  "name": "悬溺",
+  "artist": "葛东琪",
+  "hash": "666484e904a54b1e62c9fbfdbe6e2563",
+  "album_id": "23773597"
+},
+{
+  "name": "虚拟",
+  "artist": "陈粒",
+  "hash": "aef0740270fe89918f07807c8d669fb7",
+  "album_id": "1749208"
+},
+{
+  "name": "小半",
+  "artist": "陈粒",
+  "hash": "afea9ffe5d7f0ef0874119a363820d33",
+  "album_id": "1749208"
+},
+{
+  "name": "当你",
+  "artist": "王心凌",
+  "hash": "2847efed160702fbf800dac93783714a",
+  "album_id": "981884"
 }
 
   
