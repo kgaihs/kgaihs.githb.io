@@ -20,16 +20,10 @@ var songlist=[
   },
   {
     "name": "像我这样的人 (Live)",
-    "artist": "毛不易",
-    "hash": "4695b8373c1af8e3262c822bfb5a55bd",
-    "album_id": "2952169"
-  },
-  {
-    "name": "落空",
-    "artist": "印子月",
-    "hash": "ff4ff72ad6a35f2309f82e226001eed3",
-    "album_id": "8506712"
-  },
+    "artist": "毛不易、徐航",
+    "hash": "58ea7c57c46e1271402674e1730f0fcc",
+    "album_id": "8810910"
+},
   {
     "name": "最后一页",
     "artist": "江语晨",
@@ -43,45 +37,16 @@ var songlist=[
     "album_id": "80705518"
   },
   {
-    "name": "老人与海",
-    "artist": "海鸣威、吴琼",
-    "hash": "be8cf138af41e4037942fc211dc5d648",
-    "album_id": "490417"
-  },
-  {
     "name": "晚安",
     "artist": "颜人中",
     "hash": "a2251cb58dd6669e26f47f0e65f86b72",
     "album_id": "19267598"
 },
 {
-  "name": "山楂树の恋",
-  "artist": "程佳佳",
-  "hash": "9a1feeede3c6b8c17adb5b65e38b6577",
-  "album_id": "26480544"
-},
-{
-  "name": "大海",
-  "artist": "张雨生",
-  "hash": "74edbb749986cae559d1a8fb238781f3",
-  "album_id": "967705"
-},{
   "name": "迷人的危险 (男女对唱版)",
   "artist": "张颖轩、范茹",
   "hash": "46c196781cd00b0f125b433e9f016370",
   "album_id": ""
-},
-{
-  "name": "月半小夜曲",
-  "artist": "李克勤",
-  "hash": "c2e648eb53247c712ed64cff10bdd6d8",
-  "album_id": "979727"
-},
-{
-  "name": "江南",
-  "artist": "林俊杰",
-  "hash": "819b74bd09009e0422b8f563e12ba96e",
-  "album_id": "969588"
 },
 {
   "name": "红色高跟鞋 (心兮变速版)",
@@ -108,13 +73,112 @@ var songlist=[
   "album_id": "1749208"
 },
 {
-  "name": "当你",
-  "artist": "王心凌",
-  "hash": "2847efed160702fbf800dac93783714a",
-  "album_id": "981884"
+  type:"netease",
+  id:"1974443814",
+  name:"我记得",
+  artist:"赵雷",
+  album:"署前街少年",
+},
+{
+  type:"netease",
+  id:"436346833",
+  name:"凄美地",
+  artist:"郭顶",
+  album:"飞行器的执行周期",
+},
+{
+  type:"netease",
+  id:"548885986",
+  name:"落空",
+  artist:"印子月",
+  album:"印子月歌曲集",
+},
+{
+  type:"netease",
+  id:"95475",
+  name:"老人与海",
+  artist:"海鸣威 / 吴琼",
+  album:"Dance Dance Dance",
+},
+{
+  type:"netease",
+  id:"1381755293",
+  name:"山楂树之恋",
+  artist:"程佳佳",
+  album:"山楂树之恋 (完整版)",
+},
+{
+  type:"netease",
+  id:"454828906",
+  name:"大海",
+  artist:"张雨生",
+  album:"白羽毛之恋 华语典藏情歌 Vol.2",
+},
+{
+  type:"netease",
+  id:"422252223",
+  name:"月半小夜曲 (Live)",
+  artist:"陈慧娴 / 李克勤",
+  album:"Priscilla-ism 2016 Live",
+},
+{
+  type:"netease",
+  id:"399354374",
+  name:"江南/一千年以后(Live)",
+  artist:"林俊杰",
+  album:"江苏卫视 2016 跨年演唱会",
+},
+{
+  type:"netease",
+  id:"1474414194",
+  name:"当你",
+  artist:"王心凌",
+  album:"My! Cyndi!",
+},
+{
+  type:"netease",
+  id:"865632948",
+  name:"若把你",
+  artist:"Kirsty刘瑾睿",
+  album:"若把你",
+},
+{
+  type:"netease",
+  id:"2049512697",
+  name:"向云端",
+  artist:"小霞 / 海洋Bo",
+  album:"向云端",
+},
+{
+  type:"netease",
+  id:"1951069525",
+  name:"精卫",
+  artist:"30年前,50年后",
+  album:"丧失年轻，勿失年华",
+},
+{
+  type:"netease",
+  id:"475479888",
+  name:"在你的身边",
+  artist:"盛哲",
+  album:"在你的身边",
+},
+{
+  type:"netease",
+  id:"1330348068",
+  name:"起风了",
+  artist:"买辣椒也用券",
+  album:"起风了",
 }
+/*
+{
+  type:"netease",
+  id:"",
+  name:"",
+  artist:"",
+  album:"",
+},*/
 
-  
 /*
 {
   type:"netease",
