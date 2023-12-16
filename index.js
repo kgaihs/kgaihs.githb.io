@@ -67,6 +67,12 @@ var songlist=[
   "album_id": "1749208"
 },
 {
+  "name": "小幸运 (Live)",
+  "artist": "薛之谦、欧阳娜娜",
+  "hash": "1616c0383a01c80738065697d8548193",
+  "album_id": "1968472"
+},
+{
   type:"netease",
   id:"1974443814",
   name:"我记得",
@@ -171,6 +177,21 @@ var songlist=[
   artist:"颜人中",
   album:"晚安",
 },
+{
+  type:"netease",
+  id:"28563317",
+  name:"阴天快乐",
+  artist:"陈奕迅",
+  album:"Rice & Shine",
+},
+{
+  type:"netease",
+  id:"29759733",
+  name:"可乐",
+  artist:"赵紫骅",
+  album:"赵浴辰原创demo精选",
+}
+
 /*
 {
   type:"netease",
